@@ -1,4 +1,4 @@
-package Documentação.Arrays;
+
 
 public class Arrays01 {
     public static void main(String[] args){
